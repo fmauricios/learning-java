@@ -1,4 +1,4 @@
-package me.mauricioserna.poo;
+package me.mauricioserna.vehiculo;
 
 /**
  * Created by mauricio on 8/06/17.

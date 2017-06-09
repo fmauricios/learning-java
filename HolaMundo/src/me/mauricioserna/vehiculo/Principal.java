@@ -1,4 +1,4 @@
-package me.mauricioserna.poo;
+package me.mauricioserna.vehiculo;
 
 import java.util.ArrayList;
 
