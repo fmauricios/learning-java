@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="WorkbenchPreferenceDialogSettings">
 		<item value="204" key="DIALOG_X_ORIGIN"/>
-		<item value="14" key="DIALOG_Y_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="-1" key="dialogHeight"/>
@@ -15,5 +15,21 @@
 		</list>
 		<list key="textArray">
 		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+		<item value="/home/mauricio/Downloads/theme-1115.epf" key=""/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/home/mauricio/Downloads/theme-1115.epf"/>
+			<item value="/home/mauricio/Downloads/theme-1 (1).epf"/>
+			<item value="/home/mauricio/Downloads/theme-1.epf"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.Preferences" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="PreferencesExportWizard">
 	</section>
 </section>

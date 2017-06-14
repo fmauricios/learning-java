@@ -1,0 +1,5 @@
+package me.mauricioserna.hibernate.model;
+
+public class SocialMedia {
+
+}

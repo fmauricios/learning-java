@@ -1,0 +1,5 @@
+package me.mauricioserna.login.bean;
+
+public class Login {
+
+}
